@@ -13,7 +13,7 @@
   </h3>
 
   <p align="center">
-    Answers to the SQL tutorial, thanks to Microverse!
+    Answers to the SQL tutorial
    
 
 # Built With
